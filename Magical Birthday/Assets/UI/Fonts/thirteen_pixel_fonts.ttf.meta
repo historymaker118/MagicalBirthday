@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc8a1a72680c6724fbd4a2cffc3297f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thirteen Pixel Fonts
+  fontNames:
+  - Thirteen Pixel Fonts
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
